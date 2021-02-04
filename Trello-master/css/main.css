@@ -1,0 +1,55 @@
+*{
+	font-family: 'Muli', sans-serif;
+}
+body{
+	margin: 0;
+}
+.fondo{
+	background-color: #026AA7;
+}
+.fondo2{
+	background-color: #298FCA;
+}
+.margint{
+	margin-top: 3%;
+}
+.margin{
+	margin-top: 10%;
+}
+.marginb{
+	margin-bottom: 2%;
+}
+h1{
+	display: inline;
+	margin-top: 3%; 
+	font-family: 'Pacifico', cursive;
+	color: #BDBDBD;
+}
+a{
+	color: gray;
+}
+a:hover{
+	color: #2E2E2E;
+}
+.tarjetaHecha{
+	background-color: #F8F9F9;
+	width: 90%;
+	border-radius: 2px;
+	padding-left: 2px;
+}
+.div-lista{
+	background-color: #E2E4E6;
+	width: 25%;
+	float: left;
+	margin-left: 1%;
+	border-radius: 2px;
+}
+.inputtt{
+	float: left;
+} 
+
+.btn-success{
+	display: block;
+}
+ 
+
